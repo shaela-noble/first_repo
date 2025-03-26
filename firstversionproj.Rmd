@@ -1,0 +1,19 @@
+---
+title: "First version control project"
+author: "Shaela Noble"
+date: "2025-03-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is my first version controlled project in RStudio.
+
+Creating a test plot. 
+
+```{r, test-plot}
+plot(cars)
+```
+
